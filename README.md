@@ -5,4 +5,4 @@ Some background can be found on my LinkedIn profile [https://www.linkedin.com/in
 - 🔭 Like my garage, I plan on organizing my repos tomorrow.  So kindly check back tomorrow.
 - Publically-speaking, you are mostly going to find sample code, forgotten side-projects, and old code here. 
 - 👯 I’m looking to collaborate on security testing tools, and I love to share knowledge about security.
-- 💬 The good stuff is private (I know, super cringe) but happy to share and collaborate
+- 💬 There is much that is private (I know, super cringe) but happy to share and collaborate on request.

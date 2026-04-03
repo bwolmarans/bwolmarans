@@ -2,7 +2,7 @@
 
 Proud member of the sales community w/active github repos club.
 
-Stumbled upon this and were looking for my resume? You can find that here [https://brett-wolmarans-resume.lovable.app]
+Stumbled upon this and were looking for my resume? You can find that here https://brett-wolmarans-resume.lovable.app
 
 Some background can be found on my LinkedIn profile [https://www.linkedin.com/in/%E2%98%95-brett-wolmarans-8b6907/](https://www.linkedin.com/in/brett-wolmarans-8b6907/) 
 

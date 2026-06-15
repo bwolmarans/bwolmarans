@@ -1,6 +1,6 @@
 ### Hi! My name is Brett Wolmarans, and 👋 thank you for stopping by 👋 
 
-Proud member of the sales community w/active github repos club.
+part of the unofficial SE's w/active github repos club.
 
 Stumbled upon this and were looking for my resume? You can find that here https://brett-wolmarans-resume.lovable.app
 
